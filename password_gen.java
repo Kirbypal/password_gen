@@ -1,9 +1,5 @@
 import java.util.Random;
 
-// By Robotter112
-// YouTube: Robotter112
-
-// Thanks for 4000 likes
 
 
 public class PasswordGenerator 
